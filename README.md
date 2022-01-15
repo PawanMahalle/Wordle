@@ -63,3 +63,24 @@ IRONY
    🟨⬜⬜🟩🟩
    
    🟩🟩🟩🟩🟩
+
+3. Wordle 206 4/6 (Jan 11, 2022)
+
+   ⬜⬜⬜🟨⬜
+   
+   ⬜🟨🟨⬜⬜
+   
+   ⬜🟩🟩⬜🟩
+   
+   🟩🟩🟩🟩🟩
+
+### What's next?
+1. Rank the word suggestion based on frequency
+
+   Right now, the program suggests first 10 words which
+   match the criteria based on feedback. The program is 
+   more likely to show the words which appear in top of the
+   word list file which is sorted alphabetically.
+   
+   I think frequently used words should be suggested over words
+   like BIROS, CRIOS which may not be commonly used words.
